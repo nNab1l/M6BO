@@ -1,3 +1,3 @@
 # Radicale Kunstspeeltuin M6BO 2022
 
-## Dit is onze Github repository voor de zesde module Radicale Kunstspeeltuin
+## Wij, studenten van het tweede jaar media development, hebben in de tweede periode een opdracht gekregen van het Upside Down museum die wij moeten voltooien binnen circa 10 weken. In deze opdracht moeten wij als SD studenten collaboreren met de studenten van de opleidingen Ruimtelijke Vormgeving en Media Vormgeving. De opdracht betreft het maken van een interactieve ruimte waarin de disciplines van SD, RV en MV bij elkaar komen. Deze opdracht komt met een aantal restricties. De kamer moet 2,5 bij 2,5 meter zijn, en er wordt een budget gehanteerd van honderdvijftig euro. Overigens moet de kamer gebaseerd zijn op het werk van een kunstenaar die door ons als groep is gekozen.
